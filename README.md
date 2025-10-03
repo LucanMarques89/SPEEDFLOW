@@ -56,24 +56,8 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 | 2   | Alta       |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise                                                                  | 15          | 1      |
 | 3    | Alta       | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel                                              | 10         | 1      |
 | 4  | Alta      | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento.                                                                                                                                                   | 3       | 1   |
-| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária
-     | 8 | 1      |
-| 6   | Alta     |  Como cliente, quero buscar terminais e aplicar filtros personalizados de forma rápida, para facilitar a análise das movimentações portuárias     | 10         | 2      |
-| 7   |Média     |   Como cliente, quero uma interface intuitiva em que eu visualize os tempos de espera dos portos (mais rápido e mais demorado), para analisar a eficiência das operações     | 8          | 2      |
-| 17   | Média      | Como cliente, quero receber uma análise dos motivos de paradas portuárias e sua relação com períodos do ano, para identificar padrões sazonais que impactam a eficiência operacional.     | 10          | 2      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
 
-|
 
 
 
