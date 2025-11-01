@@ -58,7 +58,11 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 | 4  | Alta      | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento.                                                                                                                                                   | 3       | 1   |
 | 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
 
+# Power BI Preview
 
+![328fb988-29a4-4bef-9f2c-b46957d2a3fb](https://github.com/user-attachments/assets/8ba39ba3-d009-4160-a003-b6d9d554f9e0)
+
+![762acd4c-1c97-4945-bd19-6dc9b6e9c840](https://github.com/user-attachments/assets/e7b2142e-8bcd-4c50-a222-9657b46ed2fd)
 
 
   
