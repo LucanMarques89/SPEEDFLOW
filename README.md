@@ -62,19 +62,19 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1 | Alta |  Como cliente, quero buscar terminais e aplicar filtros personalizados de forma rápida, para facilitar a análise das movimentações portuárias. | 10 | 02 |
-| 2 | Média |  Como cliente, quero uma interface intuitiva em que eu visualize os tempos de espera dos portos (mais rápido e mais demorado), para analisar a eficiência das operações. | 08 | 02 |
-| 3 | Média |  Como cliente, quero receber uma análise dos motivos de paradas portuárias e sua relação com períodos do ano, para identificar padrões sazonais que impactam a eficiência operacional. | 10 | 02 |
-| 4 | Média | Como cliente, quero visualizar os principais portos classificados por quantidade transportada, para priorizar análises nos terminais de maior movimento. | 08 | 02 |
-| 5   | Média |  Como cliente, quero visualizar as principais cargas movimentadas por porto, para identificar os produtos mais relevantes em cada terminal.   | 07 | 02 |
-| 5   | Baixa |  Como cliente, quero um ranking das 10 principais cargas por porto, para analisar os produtos estratégicos de cada terminal. | 05 | 02 |
+| 01 | Alta |  Como cliente, quero buscar terminais e aplicar filtros personalizados de forma rápida, para facilitar a análise das movimentações portuárias. | 10 | 02 |
+| 02 | Média |  Como cliente, quero uma interface intuitiva em que eu visualize os tempos de espera dos portos (mais rápido e mais demorado), para analisar a eficiência das operações. | 08 | 02 |
+| 03 | Média |  Como cliente, quero receber uma análise dos motivos de paradas portuárias e sua relação com períodos do ano, para identificar padrões sazonais que impactam a eficiência operacional. | 10 | 02 |
+| 04 | Média | Como cliente, quero visualizar os principais portos classificados por quantidade transportada, para priorizar análises nos terminais de maior movimento. | 08 | 02 |
+| 05 | Média |  Como cliente, quero visualizar as principais cargas movimentadas por porto, para identificar os produtos mais relevantes em cada terminal.   | 07 | 02 |
+| 06 | Baixa |  Como cliente, quero um ranking das 10 principais cargas por porto, para analisar os produtos estratégicos de cada terminal. | 05 | 02 |
 
 
 ## Backlog da Sprint 03
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1  |  Média  |  Como cliente, quero visualizar as principais cargas movimentadas, para identificar os produtos com maior volume no sistema portuário. | 07 | 03 |
+| 1   |  Média  |  Como cliente, quero visualizar as principais cargas movimentadas, para identificar os produtos com maior volume no sistema portuário. | 07 | 03 |
 | 2   |  Média  |  Como cliente, quero ver a quantidade mensal de operações por terminal, para monitorar a produtividade portuária. | 06 | 03 |
 | 3   |  Média  | Como cliente, quero visualizar o total de carga movimentada por porto, para comparar o volume entre diferentes terminais. | 07 | 03 |
 | 4   |  Alta   | Como cliente, quero comparar a produtividade entre portos baseado em infraestrutura e movimentação, para identificar os mais eficientes. | 10 | 03 |
