@@ -51,11 +51,11 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1 | Alta  |  Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para fazer análise de movimentação portuária. | 12 | 1 |
-| 2 | Alta  |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise. | 15 | 1 |
-| 3 | Alta | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel. | 10 | 1 |
-| 4 | Alta | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento. | 3 | 1 |
-| 5 | Alta |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1 |
+| 1 | Alta  |  Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para fazer análise de movimentação portuária. | 12 | 01 |
+| 2 | Alta  |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise. | 15 | 01 |
+| 3 | Alta | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel. | 10 | 01 |
+| 4 | Alta | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento. | 3 | 01 |
+| 5 | Alta |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 01 |
 
 
 ## Backlog da Sprint 02
