@@ -51,34 +51,36 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       |  Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para fazer análise de movimentação portuária                                                | 12          | 1    |
-| 2   | Alta       |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise                                                                  | 15          | 1      |
-| 3    | Alta       | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel                                              | 10         | 1      |
-| 4  | Alta      | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento.                                                                                                                                                   | 3       | 1   |
-| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
+| 1 | Alta  |  Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para fazer análise de movimentação portuária. | 12 | 1 |
+| 2 | Alta  |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise. | 15 | 1 |
+| 3 | Alta | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel. | 10 | 1 |
+| 4 | Alta | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento. | 3 | 1 |
+| 5 | Alta |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1 |
 
 
 ## Backlog da Sprint 02
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       |  Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para fazer análise de movimentação portuária                                                | 12          | 1    |
-| 2   | Alta       |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise                                                                  | 15          | 1      |
-| 3    | Alta       | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel                                              | 10         | 1      |
-| 4  | Alta      | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento.                                                                                                                                                   | 3       | 1   |
-| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
-| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
+| 1 | Alta |  Como cliente, quero buscar terminais e aplicar filtros personalizados de forma rápida, para facilitar a análise das movimentações portuárias. | 10 | 02 |
+| 2 | Média |  Como cliente, quero uma interface intuitiva em que eu visualize os tempos de espera dos portos (mais rápido e mais demorado), para analisar a eficiência das operações. | 08 | 02 |
+| 3 | Média |  Como cliente, quero receber uma análise dos motivos de paradas portuárias e sua relação com períodos do ano, para identificar padrões sazonais que impactam a eficiência operacional. | 10 | 02 |
+| 4 | Média | Como cliente, quero visualizar os principais portos classificados por quantidade transportada, para priorizar análises nos terminais de maior movimento. | 08 | 02 |
+| 5   | Média |  Como cliente, quero visualizar as principais cargas movimentadas por porto, para identificar os produtos mais relevantes em cada terminal.   | 07 | 02 |
+| 5   | Baixa |  Como cliente, quero um ranking das 10 principais cargas por porto, para analisar os produtos estratégicos de cada terminal. | 05 | 02 |
 
 
 ## Backlog da Sprint 03
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       |  Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para fazer análise de movimentação portuária                                                | 12          | 1    |
-| 2   | Alta       |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise                                                                  | 15          | 1      |
-| 3    | Alta       | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel                                              | 10         | 1      |
-| 4  | Alta      | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento.                                                                                                                                                   | 3       | 1   |
-| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
+| 1  |  Média  |  Como cliente, quero visualizar as principais cargas movimentadas, para identificar os produtos com maior volume no sistema portuário. | 07 | 03 |
+| 2   |  Média  |  Como cliente, quero ver a quantidade mensal de operações por terminal, para monitorar a produtividade portuária. | 06 | 03 |
+| 3   |  Média  | Como cliente, quero visualizar o total de carga movimentada por porto, para comparar o volume entre diferentes terminais. | 07 | 03 |
+| 4   |  Alta   | Como cliente, quero comparar a produtividade entre portos baseado em infraestrutura e movimentação, para identificar os mais eficientes. | 10 | 03 |
+| 5   |  Média  |  Como cliente, quero comparar a evolução histórica da produtividade dos portos, para analisar tendências e melhorias ao longo do tempo. | 8 | 03 |
+| 5   |  Baixa  |  Como cliente, quero receber alertas visuais sobre portos com performance abaixo da média, para focar em terminais que necessitam de atenção. | 05 | 03 |
+| 5   |  Média  |  Como cliente, quero visualizar em quais meses os portos têm mais paradas e menor produtividade, para antecipar ações corretivas.   | 05 | 03 |
 
   
 
