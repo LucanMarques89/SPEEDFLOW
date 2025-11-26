@@ -1,6 +1,4 @@
 
-![Imagem do WhatsApp de 2025-09-04 à(s) 19 29 42_f6902c45](https://github.com/user-attachments/assets/72dcbc8f-788e-4f43-8ccd-0740736918a4)
-
 # SpeedFlow
 
 > Repositório do Projeto Integrador (API) da Fatec, desenvolvido com base no setor portuário brasileiro.
@@ -48,10 +46,8 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 
 
 # Product Backlog
- 
 
-- [📄 Backlog do Produto - Equipe 5]()
-
+## Backlog da Sprint 01
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
@@ -62,7 +58,27 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 | 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
 
 
+## Backlog da Sprint 02
 
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       |  Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para fazer análise de movimentação portuária                                                | 12          | 1    |
+| 2   | Alta       |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise                                                                  | 15          | 1      |
+| 3    | Alta       | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel                                              | 10         | 1      |
+| 4  | Alta      | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento.                                                                                                                                                   | 3       | 1   |
+| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
+| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
+
+
+## Backlog da Sprint 03
+
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       |  Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para fazer análise de movimentação portuária                                                | 12          | 1    |
+| 2   | Alta       |  Como cliente, quero receber os dados já tratados em Python, para que eu tenha informações confiáveis para análise                                                                  | 15          | 1      |
+| 3    | Alta       | Como cliente, quero que o back-end processe as informações portuárias para que os dados cheguem completos ao painel                                              | 10         | 1      |
+| 4  | Alta      | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade no desenvolvimento.                                                                                                                                                   | 3       | 1   |
+| 5   | Alta      |  Como cliente, quero um painel interativo com evolução das movimentações, tempos de operação e paradas, para identificar gargalos e melhorar a performance portuária | 8 | 1      |
 
   
 
