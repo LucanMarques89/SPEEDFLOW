@@ -21,6 +21,7 @@ A proposta é transformar os dados da ANTAQ em um dashboard no Power BI, tornand
 | Scrum Master  | Lucan Raphael Marques |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucan-marques-5a94294b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucanMarques89)     |
 |  Team Member  | Renan Joval Francisco Nascimento                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renan-nascimento-99a622ab/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/renannascimento13/Informatica)        |
 
+![Imagem do WhatsApp de 2025-12-01 à(s) 22 07 59_30b7d6a3](https://github.com/user-attachments/assets/ef1ba940-85fc-4498-9835-b6fba71c4cd0)
 
 
 # Objetivo do Projeto  
@@ -85,8 +86,23 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 # Desenvolvimento do Produto
 
 ## Coleta dos Dados
+![Imagem do WhatsApp de 2025-12-01 à(s) 22 56 16_12f725ba](https://github.com/user-attachments/assets/2ae43bf0-a641-4ec3-802e-2567a0d1c972)
+
+Os dados foram cletados no site oficial da ANTAQ (Agência Nacional de Transporte Auqaviário)
+
 ## Tratamento dos dados
+![Imagem do WhatsApp de 2025-12-01 à(s) 22 56 17_a1fccbce](https://github.com/user-attachments/assets/8be2a6cb-8507-4a37-bbc2-869e9064e999)
+
+Os dados foram tratados na linguagem de programação Pyethon, dentro do Google Colab facilitando a manipulação e o tratamento de grandes volumes de dados.
 
 
 # Produto Final
 ## Análise dos dados
+
+Dashboard de Portos, Atracações e Tipos de Operações
+![Imagem do WhatsApp de 2025-12-01 à(s) 22 08 42_0b15c332](https://github.com/user-attachments/assets/5e72fca5-abde-49d6-b66b-fdd0004efb5a)
+
+
+Dashboad dos Tempos e motivos de Paralisação
+![Imagem do WhatsApp de 2025-12-01 à(s) 22 09 31_fac10f11](https://github.com/user-attachments/assets/5e1dfc38-73ce-4def-868d-8dc3bad9561a)
+
