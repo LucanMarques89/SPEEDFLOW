@@ -10,7 +10,7 @@ A proposta é transformar os dados da ANTAQ em um dashboard no Power BI, tornand
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
-
+* [Produto Final]
 
 # Projeto (API) 
 > Este repositório reúne o Projeto Integrador da Fatec, voltado ao setor portuário brasileiro, utilizando dados da ANTAQ para criação de um dashboard em Power BI que facilite análises operacionais e estratégicas.
@@ -82,4 +82,11 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 | 5   |  Média  |  Como cliente, quero visualizar em quais meses os portos têm mais paradas e menor produtividade, para antecipar ações corretivas.   | 05 | 03 |
 
   
+# Desenvolvimento do Produto
 
+## Coleta dos Dados
+## Tratamento dos dados
+
+
+# Produto Final
+## Análise dos dados
