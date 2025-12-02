@@ -1,5 +1,7 @@
 
 # SpeedFlow
+![Imagem do WhatsApp de 2025-09-04 à(s) 19 29 37_64589916](https://github.com/user-attachments/assets/77cbc6b9-1e82-4f42-be48-9fe6d4609d99)
+
 
 > Repositório do Projeto Integrador (API) da Fatec, desenvolvido com base no setor portuário brasileiro.
 A proposta é transformar os dados da ANTAQ em um dashboard no Power BI, tornando as análises mais claras e acessíveis.
@@ -10,7 +12,8 @@ A proposta é transformar os dados da ANTAQ em um dashboard no Power BI, tornand
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
-* [Produto Final]
+* [Produto em Desenvolvimento](Produto_em_Desenvolvimento)
+* [Produto Final](Produto_Final)
 
 # Projeto (API) 
 > Este repositório reúne o Projeto Integrador da Fatec, voltado ao setor portuário brasileiro, utilizando dados da ANTAQ para criação de um dashboard em Power BI que facilite análises operacionais e estratégicas.
